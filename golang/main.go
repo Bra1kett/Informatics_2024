@@ -7,7 +7,6 @@ import (
 )
 
 func main() {
-
 	lab4.Executelab4()
 
 	fmt.Println("ОДИНЦОВ АЛЕКСАНДР МИХАЙЛОВИЧ")
