@@ -11,5 +11,4 @@ func main() {
 	lab6.Executelab6()
 
 	fmt.Println("ОДИНЦОВ АЛЕКСАНДР МИХАЙЛОВИЧ")
-
 }
