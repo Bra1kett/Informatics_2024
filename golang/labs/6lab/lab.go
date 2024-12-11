@@ -7,7 +7,7 @@ import (
 type Film struct {
  Title  string
  Genre  string
- Length int // длина в минутах
+ Length int 
 }
 
 func NewFilm(title, genre string, length int) Film {
